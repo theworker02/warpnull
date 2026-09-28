@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/warpnull",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Warp and reshape null text streams with deterministic transforms.",
+  "bin": {
+    "warpnull": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/warpnull.git"
+  },
+  "homepage": "https://theworker02.github.io/warpnull/",
+  "keywords": [
+    "warp",
+    "null",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
